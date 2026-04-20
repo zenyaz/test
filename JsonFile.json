@@ -1,4 +1,16 @@
 {
-  "name": "Alex",
-  "city": "Bucharest"
+  "videos": [
+    {
+      "name": "Видео 1",
+      "url": "https://cdn.free-stock.video/1582025/mano-extendida-luz-dramatica-human-hand-one-person-dark-human-finger-men-close-up-181511-small.mp4"
+    },
+    {
+      "name": "Видео 2",
+      "url": "https://cdn.free-stock.video/1582025/a-man-face-computer-who-is-a-hacker-with-python-c-f5f0-460f-b360-technology-data-men-coding-computer-programmer-181120-small.mp4"
+    },
+    {
+      "name": "Видео 3",
+      "url": "https://cdn.free-stock.video/182025/slow-zoom-in-on-the-berries-gentle-rotation-for-c571-47b9-a9bb-raspberry-fruit-food-freshness-berry-fruit-leaf-135032-small.mp4"
+    }
+  ]
 }

@@ -1,17 +1,5 @@
 {
   "videos": [
-    {
-      "name": "Video 11",
-      "url": "file://C:/sample_640x360.mp4"
-    },
-    {
-      "name": "Видео 2",
-      "url": "https://cdn.free-stock.video/1582025/close-up-of-woolly-mammoth-steam-from-nostrils-6edf-4dc6-bf5a-animal-snow-nature-mammal-winter-close-up-18632-small.mp4"
-    },
-    {
-      "name": "Видео 3",
-      "url": "https://cdn.free-stock.video/182025/slow-zoom-in-on-the-berries-gentle-rotation-for-c571-47b9-a9bb-raspberry-fruit-food-freshness-berry-fruit-leaf-135032-small.mp4"
-    },
         {
       "name": "1",
       "url": "https://vostokstroyteh.ru/video/1.mp4"

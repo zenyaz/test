@@ -28,9 +28,18 @@
       "name": "4",
       "url": "https://vostokstroyteh.ru/video/4.mp4"
     },
-            {
+    {
       "name": "5",
       "url": "https://vostokstroyteh.ru/video/5.mp4"
+    },
+   {
+      "name": "7",
+      "url": "https://vostokstroyteh.ru/video/7.mp4"
+    },
+       {
+      "name": "8",
+      "url": "https://vostokstroyteh.ru/video/8.mp4"
     }
+    
   ]
 }
